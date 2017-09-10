@@ -13,8 +13,22 @@ Clone the repo, run a server that supports PHP, and load up MARTA.html. The two 
 
 ## License
 
-We are still working out the details, but anything in this repo that is not specifically MARTA's work is intended to be Free Open Source Software and could be reused by any similar paratransit organization wishing to connect it to their data and website. 
+We are still working out the details, but anything in this repo that is not specifically MARTA's work is intended to be Free Open Source Software and could be reused by any similar paratransit organization wishing to connect it to their data and website.
 
 ## Acknowledgments
 
-Much of this particular implementation was written by Mark Noonan, but it draws on converstations, research, code, and other contributions from many others, without whom it would be very different (or indeed, wouldn't exist). A partial list: Darshan Gulur Srinivasa, Erick Garcia, Jared Saussy, Danny Alexander, Joshua Thornton, Nerando Johnson, Brittani Smalls, Ann Vu, Zachary Williams, Paris Walters, Itzcoatl Salazar, Roberto Cervantes
+Much of this particular implementation was written by Mark Noonan, but it draws on converstations, research, code, and other contributions from many others, without whom it would be very different (or indeed, wouldn't exist). A partial list includes:
+- Darshan Gulur Srinivasa
+- Erick Garcia
+- Jared Saussy
+- Danny Alexander
+- Joshua Thornton
+- Nerando Johnson
+- Brittani Smalls
+- Ann Vu
+- Zachary Williams
+- Paris Walters
+- Itzcoatl Salazar
+- Roberto Cervantes
+
+<!-- Read Me raw format ==== https://raw.githubusercontent.com/lord/slate/master/README.md -->
